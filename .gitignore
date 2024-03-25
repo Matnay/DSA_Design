@@ -1,0 +1,7 @@
+# ignore all vscode files
+.vscode
+.trunk
+
+# ignore all compiled objects
+.o
+.out
